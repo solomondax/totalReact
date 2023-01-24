@@ -6,7 +6,8 @@ import React from 'react'
         <h1>dhfvkjh {props.name}</h1>
         <h1>newsettilement</h1>
         <h1>second changes</h1>
-            </div>
+        <h1>some new changes</h1>
+        </div>
     )
     
 }
